@@ -12,3 +12,7 @@ The portfolio manager outperformed a 'market' consisting of 1 share each of the 
 Stocks data from: https://www.kaggle.com/datasets/paultimothymooney/stock-market-data
 
 The csv data has been separated to be uploaded to GitHub, data_processing is used on a single folder that includes every csv in the zip files. However, training and testing can be run using only the train and test arrays as this is what is produced from the data_processing.py file.
+
+All training and testing can be run from the run_PortfolioManager.py file.
+
+The Portfolio Manager file is the saved trained Pytorch model.
