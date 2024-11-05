@@ -5,8 +5,8 @@ This project uses Deep Reinforcment Learning to manage a portfolio over time, tr
 
 The portfolio manager outperformed a 'market' consisting of 1 share each of the available stock. However, as there was no transaction costs in trading this may not be the case in application.
 
-<img src="visualisations/Training Graph.png" alt="alt text" width="500" height="300">
-<img src="visualisations/Test Graph.png" alt="alt text" width="500" height="300">
+<img src="visualisations/Training Graph.png" alt="alt text" width="600" height="400">
+<img src="visualisations/Test Graph.png" alt="alt text" width="600" height="400">
 
 # References and further notes
 Stocks data from: https://www.kaggle.com/datasets/paultimothymooney/stock-market-data
