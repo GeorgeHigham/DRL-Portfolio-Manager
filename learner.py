@@ -67,7 +67,6 @@ class DQNAgent:
         x_values = []
         # get states from batch
         for state, reward, next_state in batch_sample:
-            # state, next_state = np.array(state), np.array(next_state)
             # create a list of the states so we can test the accuracy of the model's prediction of the reward from each state
             x_values.append(state)
             # formatting
