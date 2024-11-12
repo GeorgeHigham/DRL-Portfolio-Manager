@@ -1,5 +1,5 @@
 # DRL-Portfolio-Manager
-Building a Deep Reinforcement Learner to manage a stock portfolio
+Building a Deep Reinforcement Learner to manage a stock portfolio over time.
 
 This project uses Deep Reinforcment Learning to manage a portfolio over time, trading stocks based on features created using historical prices. Limitations were set on the portfolio to reduce considerations for the project. The limitations include: the portfolio manager is only able to make 1 trade a day, no transaction costs to trades, fixed portfolio size, portfolio can only own 1 share in each stock. 
 
